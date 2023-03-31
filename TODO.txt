@@ -1,0 +1,6 @@
+3.31.24
+  1. look up what GMM is
+  2. understand gradients
+  3. review all lessons
+  4. read alone the HW file and understand it
+  5. 
