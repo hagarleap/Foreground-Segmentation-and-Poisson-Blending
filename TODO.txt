@@ -4,3 +4,6 @@
   3. review all lessons
   4. read alone the HW file and understand it
   5. 
+
+5.4.23
+  1. ask/see if someone asks in forum about what the convergence of EM algo in calculating GMM needs to be
